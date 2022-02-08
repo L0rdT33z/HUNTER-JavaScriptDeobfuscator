@@ -1,6 +1,6 @@
 # HUNTER-JavaScriptDeobfuscator
 
-Deobfuscator of hunter-php-javascript-obfuscator
+Deobfuscator of [hunter-php-javascript-obfuscator](https://github.com/nicolauns/hunter-php-javascript-obfuscator)
 
 ## Installation
 
@@ -15,4 +15,4 @@ pip install future
 py deobfuscator.py
 ```
 
-<img src="https://raw.githubusercontent.com/L0rdT33z/HUNTER-JavaScriptDeobfuscator/main/img/01.jpg" title="" alt="01.jpg" width="407">
+<img src="https://raw.githubusercontent.com/L0rdT33z/HUNTER-JavaScriptDeobfuscator/main/img/01.jpg" title="" alt="01.jpg" width="1000">
